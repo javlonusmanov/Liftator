@@ -1,2 +1,2 @@
-/Users/javlonusmanov/Liftator/liftator/platforms/android/CordovaLib/ant-build/AndroidManifest.xml : \
-/Users/javlonusmanov/Liftator/liftator/platforms/android/CordovaLib/AndroidManifest.xml \
+C:\Users\Taffy\Documents\GitHub\liftator-ionic\platforms\android\CordovaLib\ant-build\AndroidManifest.xml : \
+C:\Users\Taffy\Documents\GitHub\liftator-ionic\platforms\android\CordovaLib\AndroidManifest.xml \
