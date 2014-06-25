@@ -1,9 +1,9 @@
 angular.module('starter.controllers', [])
 
-.controller('DashCtrl', function($scope) {
+.controller('MealCtrl', function($scope) {
 })
 
-.controller('FriendsCtrl', function($scope, Friends) {
+.controller('WorkoutCtrl', function($scope, Friends) {
   $scope.friends = Friends.all();
 })
 
