@@ -73,11 +73,8 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       }
     })
   // if none of the above states are matched, use this as the fallback
-<<<<<<< HEAD
-  $urlRouterProvider.otherwise('/');
-=======
+
   $urlRouterProvider.otherwise('/tab/meal');
->>>>>>> ef1d06a05dc655a548b8509caebbb4c59d6c7555
 
 });
 
